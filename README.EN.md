@@ -1,3 +1,9 @@
+<div align="right">
+
+🇫🇷 [Version Française](./README.md)
+
+</div>
+
 <div align="center">
 
 # 🏗️ AGUERA RENOV
